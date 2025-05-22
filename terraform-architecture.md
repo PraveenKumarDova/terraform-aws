@@ -1,6 +1,6 @@
 # ☁️ Terraform Architecture Overview
 
-![Terraform Architecture](a44c8643-4828-4d92-ad82-2e9884c9a54c.png)
+![Terraform Architecture](diagrams/terraform-arch.png)
 
 ---
 
